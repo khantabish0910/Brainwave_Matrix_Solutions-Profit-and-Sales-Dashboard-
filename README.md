@@ -1,4 +1,4 @@
-🚀 Thrilled to share my new Sales and Profit Dashboard built in Power BI! 🚀
+🚀 Thrilled to share my new Sales and Profit Dashboard built in Power BI! 🚀#BrainwaveMatrixSolutions
 
 In today’s fast-moving business world, understanding sales performance and profitability is crucial. This dashboard is designed to help organizations:
 
@@ -8,14 +8,13 @@ In today’s fast-moving business world, understanding sales performance and pro
 ✅ Make strategic, data-driven decisions faster
 
 🔍 Features include:
+1.Interactive filters for year, region, and product categories
 
-Interactive filters for year, region, and product categories
+2.Dynamic visualizations for quick insights
 
-Dynamic visualizations for quick insights
+3.Drill-down capabilities for detailed analysis
 
-Drill-down capabilities for detailed analysis
-
-Clean and professional layout for executives and analysts
+4.Clean and professional layout for executives and analysts
 
 Insights:-Highlight Growth:- "Our sales have been skyrocketing! We're thrilled to see consistent growth across all segments.
 Segment Focus:- "The Home Office segment continues to be a powerhouse for our business. We're excited to explore new opportunities in this growing market.
